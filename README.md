@@ -2,7 +2,7 @@
 
 TestSetUp:
 
-clone the project url and open the project in Eclipse or Intellij IDEA 
+Clone the project url and open the project in Eclipse or Intellij IDEA 
 Then we can see ZopaTest project
 
 ![image](https://user-images.githubusercontent.com/57220137/136711785-01a8511d-f6e4-4511-b5be-2f56807765e3.png)
@@ -13,7 +13,7 @@ In zopaQuote.feature there are test scenarios for ZopaQuoteApi endpoint
 ![image](https://user-images.githubusercontent.com/57220137/136712115-a1d75b46-050c-4029-991e-e5d6f71f4715.png)
 
 There are @tags defined for the test scenarios like @positive, @negitive and @testQuoteApi, where we can run the test scenarios with the tags 
-For example: if we want to run the positive scenarios (Test for the quoteOffer is true/false) give @positive tag in testRunners where tags="@positive"
+For example: if we want to run the positive scenarios (Test for the quoteOffer is true/false) give @positive tag in testRunners where tags="@positive" and run the test with JUnit test runner
 
 ![image](https://user-images.githubusercontent.com/57220137/136712569-7953f7ee-ffed-4529-b1c4-964a6b9a0d0c.png)
 
